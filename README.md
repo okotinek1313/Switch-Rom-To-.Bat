@@ -15,7 +15,7 @@
 
 ## Opening
 
-1. Open `Games Folder`.
+1. Open `Games` Folder.
 
 2. Open The folder with your ROMS name.
 
