@@ -2,7 +2,7 @@
 
 ---
 
--- Instructions
+## Instructions
 
 1. **Put your Yuzu emulator into the yuzuTemplate folder.**
 
@@ -12,8 +12,10 @@
 
 ---
 
+## Enjoy!
+
+---
+
 If you have any issues feel free to contact me!
 
-----
 
--- Enjoy!
