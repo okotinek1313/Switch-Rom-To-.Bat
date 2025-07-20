@@ -4,18 +4,16 @@
 
 ## Instructions
 
-1. **Put your Yuzu emulator into the yuzuTemplate folder.**
+1. **Place your Yuzu emulator folder inside the `YuzuTemplate` folder.**
 
-2.  Open the YuzuRomManager.exe and choose your rom.
+2. **Run `YuzuRomManager.exe` and select your Switch ROM (`*.nsp` or `*.xci`).**
 
-3.   **Wait for complete message.** (Might go not responding **DONT CLOSE IT** it is still working.)
-
----
+3. **Wait for the “Game setup complete!” message.**  
+   *(The app might appear unresponsive during the process — **do not close it**, it’s still working.)*
 
 ## Enjoy!
 
 ---
 
-If you have any issues feel free to contact me!
-
+If you encounter any issues or have questions, feel free to contact me!
 
