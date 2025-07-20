@@ -1,0 +1,14 @@
+C:\Users\jfran\Downloads\YuzuRomManager\YuzuRomManager\bin\Debug\net6.0-windows\YuzuRomManager.exe
+C:\Users\jfran\Downloads\YuzuRomManager\YuzuRomManager\bin\Debug\net6.0-windows\YuzuRomManager.deps.json
+C:\Users\jfran\Downloads\YuzuRomManager\YuzuRomManager\bin\Debug\net6.0-windows\YuzuRomManager.runtimeconfig.json
+C:\Users\jfran\Downloads\YuzuRomManager\YuzuRomManager\bin\Debug\net6.0-windows\YuzuRomManager.dll
+C:\Users\jfran\Downloads\YuzuRomManager\YuzuRomManager\bin\Debug\net6.0-windows\YuzuRomManager.pdb
+C:\Users\jfran\Downloads\YuzuRomManager\YuzuRomManager\obj\Debug\net6.0-windows\YuzuRomManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfran\Downloads\YuzuRomManager\YuzuRomManager\obj\Debug\net6.0-windows\YuzuRomManager.AssemblyInfoInputs.cache
+C:\Users\jfran\Downloads\YuzuRomManager\YuzuRomManager\obj\Debug\net6.0-windows\YuzuRomManager.AssemblyInfo.cs
+C:\Users\jfran\Downloads\YuzuRomManager\YuzuRomManager\obj\Debug\net6.0-windows\YuzuRomManager.csproj.CoreCompileInputs.cache
+C:\Users\jfran\Downloads\YuzuRomManager\YuzuRomManager\obj\Debug\net6.0-windows\YuzuRomManager.dll
+C:\Users\jfran\Downloads\YuzuRomManager\YuzuRomManager\obj\Debug\net6.0-windows\refint\YuzuRomManager.dll
+C:\Users\jfran\Downloads\YuzuRomManager\YuzuRomManager\obj\Debug\net6.0-windows\YuzuRomManager.pdb
+C:\Users\jfran\Downloads\YuzuRomManager\YuzuRomManager\obj\Debug\net6.0-windows\YuzuRomManager.genruntimeconfig.cache
+C:\Users\jfran\Downloads\YuzuRomManager\YuzuRomManager\obj\Debug\net6.0-windows\ref\YuzuRomManager.dll
